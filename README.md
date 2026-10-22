@@ -1,45 +1,39 @@
-# Hi, I'm Abeeha Shabbir! 👋
+# Abeeha Shabbir — Personal Developer Portfolio
 
-### IT Graduate | Front-End Developer | Flutter & IoT Enthusiast
+Welcome to my personal developer portfolio! This website showcases my background, technical skills, projects, and professional interests as an IT graduate aspiring to grow in software development.
 
-Welcome to my GitHub profile! I'm passionate about building responsive websites, mobile applications, and innovative technology solutions.
+## 🌐 Live Portfolio
+
+[View My Portfolio](https://abeeham.github.io/abeeha-shabbir/)
 
 ## 👩‍💻 About Me
 
-- 🎓 IT Graduate from Emerson University Multan
-- 🌐 Interested in Front-End Web Development
-- 📱 Exploring Flutter and Dart
-- ☁️ Working with Firebase and IoT technologies
-- ❤️ Developed an IoT-Based Cardiac Health Monitoring System
-- 🚀 Always learning and building new projects
+I am an IT graduate interested in web development, Flutter, and IoT-based solutions. I enjoy learning new technologies and building practical projects to improve my development skills.
 
-## 🛠️ Skills
+## 🛠️ Technologies & Skills
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- Flutter
-- Dart
+- Flutter and Dart fundamentals
 - Firebase
-- IoT
-- Figma
+- IoT fundamentals
+- Git and GitHub
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 1. Personal Developer Portfolio
-A portfolio website showcasing my skills, projects, and professional journey.
+### 1. IoT-Based Cardiac Health Monitoring System
+
+My BSIT final-year project focused on using IoT technology for cardiac health monitoring.
+
+### 2. Personal Developer Portfolio
+
+A responsive personal portfolio website created to showcase my skills, projects, and professional profile.
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 2. IoT-Based Cardiac Health Monitoring System
-A system designed to monitor vital signs using sensors and transmit data to a cloud-based platform.
+## 📫 Connect With Me
 
-**Technologies:** IoT, Flutter, Firebase, Sensors
-
-## 🤝 Connect With Me
-
-- LinkedIn: [Abeeha Shabbir](https://www.linkedin.com/in/abeeha-shabbir-b8b795257)
-
----
-
-⭐ Thank you for visiting my profile!
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/abeeha-shabbir-b8b795257)
+- **GitHub:** [AbeehaM](https://github.com/AbeehaM)
+- **Portfolio:** [Visit My Website](https://abeeham.github.io/abeeha-shabbir/)
